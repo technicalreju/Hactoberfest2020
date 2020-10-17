@@ -23,6 +23,8 @@
 
 [someshwarMirge](https://github.com/someshwarMirge)
 
+[Birat](https://github.com/biratkundu)
+
 [Manav Bansal](https://github.com/manavbansalcoder)
 
 [Manu Jain](https://github.com/manu230)
